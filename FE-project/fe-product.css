@@ -1,0 +1,34 @@
+.nav{
+    display: inline;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    display: inline;
+    background-image: url(https://www.shutterstock.com/image-photo/wooden-board-empty-table-background-600nw-2494658833.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.home{
+    padding-left: 50px;
+    padding-top: 200px;
+}
+.home>h1{
+    color: rgb(8, 1, 1);
+    font-size: 80px;
+    font-style: italic;
+}
+.home>h2{
+    color: rgb(236, 227, 227);
+}
+.home>h3{
+    color: rgb(235, 10, 10);
+    font-family: cursive;
+}
+.copyright{
+    text-align: center;
+    font: optional;color: bisque;
+    font-size: 20px;
+    background-color: black;
+}

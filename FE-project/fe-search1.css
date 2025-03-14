@@ -1,0 +1,103 @@
+.nav{
+    display: inline;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    display: inline-block;
+    background-image: url(https://baketivity.com/wp-content/uploads/2024/07/The-History-of-the-Bakery-Industry-A-Comprehensive-Overview-768x512.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.search1{
+    display: inline-block;
+    font-size: 15px;
+    margin: 49px;
+    border-radius: 25px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: grey;
+    padding: 20px;
+    background-color: whitesmoke;
+}
+.search1>button{
+    background-color: grey;
+}
+.search1:hover{
+    transform: matrix(1.02);
+    box-shadow: 6px 2px 15px;
+}
+.search2{
+    display: inline-block;
+    font-size: 15px;
+    margin: 80px;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: grey;
+    border-width: 5px;
+    padding: 20px;
+    background-color: whitesmoke;
+}
+.search2>button{
+    background-color: grey;
+}
+.search2:hover{
+    transform: matrix(1.02);
+    box-shadow: 6px 2px 15px;
+}
+.search3{
+    display: inline-block;
+    font-size: 15px;
+    margin: 80px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: grey;
+    padding: 20px;
+    background-color: whitesmoke;
+}
+.search3>button{
+    background-color: grey;
+}
+.search3:hover{
+    transform: matrix(1.02);
+    box-shadow: 6px 2px 15px;
+}
+.search4{
+    display: inline-block;
+    font-size: 15px;
+    margin: 200px;
+    margin-top: 100px;
+    border-radius: 25px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: grey;
+    padding: 20px;
+    background-color: whitesmoke;
+}
+.search4>button{
+    background-color: grey;
+}
+.search4:hover{
+    transform: matrix(1.02);
+    box-shadow: 6px 2px 15px;
+}
+.search5{
+    display: inline-block;
+    font-size: 15px;
+    margin: 80px;
+    border-radius: 25px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: grey;
+    padding: 20px;
+    background-color: whitesmoke;
+}
+.search5>button{
+    background-color: grey;
+}
+.search5:hover{
+    transform: matrix(1.02);
+    box-shadow: 6px 2px 15px;
+}

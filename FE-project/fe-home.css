@@ -1,0 +1,57 @@
+.nav{
+    display: inline;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    position: sticky;
+}
+.home{
+    padding-left: 50px;
+    padding-top: 200px;
+}
+.home>h1{
+    color: rgb(14, 6, 6);
+    font-size: 80px;
+    font-style: italic;
+}
+.home>h2{
+    color: rgb(17, 14, 14);
+}
+.home>h3{
+    color: rgb(224, 6, 6);
+    font-family: cursive;
+}
+.main>h1{
+    display: inline;
+    background-image: none;
+    text-align: left;
+    color: rgb(202, 157, 8);
+    font-size: 100px;
+    padding-top: 100px;
+}
+.main>h2{
+    text-align: left;
+    color: rgba(214, 189, 189, 0.555);
+    font-weight: bold;
+    font-size: 40px;
+}
+.main{
+    background-image: url(https://img.freepik.com/premium-photo/rustic-bread-bakery-background_776894-101888.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 80px;
+    font-size: 100px;
+}
+.main ul{
+    list-style: none;
+}
+.main ul li{
+    display: inline;
+    padding: 1px;
+}
+.main>p{
+    text-align: center;
+    color: bisque;
+    font-size: 20px;
+    background-color: black;
+}

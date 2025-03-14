@@ -1,0 +1,36 @@
+body{
+    display: inline;
+    background-image: url(bg3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.one {
+    display: block;
+    padding: 50px;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin-left: 580px;
+    margin-top: 145px;
+    max-width: 400px;
+    background-color: grey;
+}
+.one:hover{
+    transform: scale(1.02);
+    box-shadow: 6px 2px 15px;
+}h
+.one>h1{
+    text-align: center;
+    font: optional;color: white;
+}
+label{
+    color: black;
+    font-size: 20px;
+}
+a{
+    text-align: center;
+    font-size: 17px;
+    color: black;
+}

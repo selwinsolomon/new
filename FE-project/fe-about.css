@@ -1,0 +1,47 @@
+.nav{
+    display: inline;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    display: inline;
+    background-image: url(https://img.freepik.com/premium-photo/stock-photo-modern-bakery-blurred-bokeh-background-bakery-delight-copy-space-text-ar-2310-sty_841543-58631.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.home{
+    padding-left: 50px;
+    padding-top: 200px;
+}
+.home>h1{
+    color: rgb(14, 6, 6);
+    font-size: 80px;
+    font-style: italic;
+}
+.home>h2{
+    color: rgb(17, 14, 14);
+}
+.home>h3{
+    color: rgb(224, 6, 6);
+    font-family: cursive;
+}
+.about{
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    padding: 50px;
+}
+.about>h1{
+    font: optional;color: rgb(224, 6, 6);
+}
+.about>h2{
+    text-align: left;
+}
+.copyright{
+    text-align: center;
+    font: optional;color: bisque;
+    font-size: 20px;
+    background-color: black;
+}
